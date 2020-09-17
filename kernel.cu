@@ -1,6 +1,5 @@
 #include <iostream>
 #include <math.h>
-// Kernel function to add the elements of two arrays
 
 #define ITTERATIONS 10000
 
